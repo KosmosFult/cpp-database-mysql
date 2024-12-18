@@ -13,8 +13,6 @@
 
 #include "trpc/client/mysql/mysql_service_proxy.h"
 
-#include <iostream>
-
 #include "trpc/client/mysql/config/mysql_client_conf_parser.h"
 #include "trpc/client/service_proxy_option.h"
 #include "trpc/util/bind_core_manager.h"

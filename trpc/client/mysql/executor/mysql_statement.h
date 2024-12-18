@@ -13,11 +13,8 @@
 
 #pragma once
 
-#include <cassert>
-#include <string>
-#include <vector>
-
 #include "mysqlclient/mysql.h"
+
 #include "trpc/util/log/logging.h"
 
 namespace trpc::mysql {

@@ -13,12 +13,7 @@
 
 #pragma once
 
-#include <condition_variable>
 #include <list>
-#include <memory>
-#include <mutex>
-#include <queue>
-#include <string>
 
 #include "trpc/client/mysql/executor/mysql_executor.h"
 #include "trpc/transport/common/transport_message_common.h"

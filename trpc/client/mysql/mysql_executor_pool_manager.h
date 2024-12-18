@@ -13,9 +13,6 @@
 
 #pragma once
 
-#include <memory>
-#include <mutex>
-#include <string>
 #include <unordered_map>
 
 #include "trpc/client/mysql/mysql_executor_pool.h"
