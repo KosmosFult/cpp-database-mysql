@@ -17,9 +17,9 @@
 #include <unordered_set>
 
 #include "mysqlclient/mysql.h"
+#include "trpc/util/string_util.h"
 
 #include "trpc/client/mysql/executor/mysql_type.h"
-#include "trpc/util/string_util.h"
 
 namespace trpc::mysql {
 

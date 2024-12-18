@@ -15,8 +15,9 @@
 
 #include <list>
 
-#include "trpc/client/mysql/executor/mysql_executor.h"
 #include "trpc/transport/common/transport_message_common.h"
+
+#include "trpc/client/mysql/executor/mysql_executor.h"
 
 namespace trpc::mysql {
 

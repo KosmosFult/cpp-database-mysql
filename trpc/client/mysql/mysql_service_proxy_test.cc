@@ -11,8 +11,6 @@
 //
 //
 
-#include "trpc/client/mysql/mysql_plugin.h"
-
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 
@@ -20,6 +18,8 @@
 #include "trpc/client/service_proxy_option_setter.h"
 #include "trpc/common/trpc_plugin.h"
 #include "trpc/future/future_utility.h"
+
+#include "trpc/client/mysql/mysql_plugin.h"
 
 namespace trpc::testing {
 

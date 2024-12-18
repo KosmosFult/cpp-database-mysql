@@ -14,7 +14,6 @@
 #pragma once
 
 #include "mysqlclient/mysql.h"
-
 #include "trpc/util/log/logging.h"
 
 namespace trpc::mysql {
